@@ -1,3 +1,3 @@
 # FucktheWorld
 Baby's first repository
-The readme file is generated as a list rather than just open text which i thought is weird.
+The readme file shows as a list while typing it to track changes I suppose, but appears as a paragraph once published.
